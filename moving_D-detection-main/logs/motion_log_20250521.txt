@@ -1,0 +1,686 @@
+2025-05-21 07:32:06,035 - Started processing: Camera ID: 0, FPS: 30.00
+2025-05-21 07:32:06,069 - Bắt đầu ghi video camera: data/output\motion_20250521_073206.avi, FPS: 30.00
+2025-05-21 07:32:08,121 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:08,123 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:08,123 - Object detected: person, confidence: 0.75
+2025-05-21 07:32:08,123 - Object detected: person, confidence: 0.54
+2025-05-21 07:32:08,123 - Object detected: person, confidence: 0.53
+2025-05-21 07:32:08,223 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:08,224 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:08,224 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:08,224 - Object detected: person, confidence: 0.68
+2025-05-21 07:32:08,336 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:08,337 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:08,337 - Object detected: person, confidence: 0.81
+2025-05-21 07:32:08,337 - Object detected: person, confidence: 0.66
+2025-05-21 07:32:08,429 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:08,430 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:08,430 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:08,431 - Object detected: person, confidence: 0.69
+2025-05-21 07:32:08,605 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:08,606 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:08,607 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:08,607 - Object detected: person, confidence: 0.66
+2025-05-21 07:32:08,733 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:08,733 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:08,733 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:08,734 - Object detected: person, confidence: 0.62
+2025-05-21 07:32:08,828 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:08,829 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:08,829 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:08,829 - Object detected: person, confidence: 0.63
+2025-05-21 07:32:08,931 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:08,932 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:08,932 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:08,932 - Object detected: person, confidence: 0.70
+2025-05-21 07:32:09,036 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:09,036 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:09,036 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:09,037 - Object detected: person, confidence: 0.69
+2025-05-21 07:32:09,148 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:09,149 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:09,149 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:09,149 - Object detected: person, confidence: 0.72
+2025-05-21 07:32:09,241 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:09,242 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:09,242 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:09,242 - Object detected: person, confidence: 0.74
+2025-05-21 07:32:09,328 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:09,328 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:09,329 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:09,329 - Object detected: person, confidence: 0.80
+2025-05-21 07:32:09,424 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:09,424 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:09,424 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:09,425 - Object detected: person, confidence: 0.79
+2025-05-21 07:32:09,542 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:09,543 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:09,543 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:09,544 - Object detected: person, confidence: 0.83
+2025-05-21 07:32:09,545 - Object detected: tie, confidence: 0.55
+2025-05-21 07:32:09,653 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:09,653 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:09,654 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:09,654 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:09,755 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:09,755 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:09,755 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:09,756 - Object detected: person, confidence: 0.83
+2025-05-21 07:32:09,851 - Object detected: person, confidence: 0.94
+2025-05-21 07:32:09,851 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:09,852 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:09,852 - Object detected: person, confidence: 0.83
+2025-05-21 07:32:09,941 - Object detected: person, confidence: 0.94
+2025-05-21 07:32:09,941 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:09,942 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:09,942 - Object detected: person, confidence: 0.81
+2025-05-21 07:32:09,943 - Object detected: cell phone, confidence: 0.79
+2025-05-21 07:32:10,031 - Object detected: person, confidence: 0.94
+2025-05-21 07:32:10,031 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:10,031 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:10,031 - Object detected: person, confidence: 0.82
+2025-05-21 07:32:10,032 - Object detected: cell phone, confidence: 0.74
+2025-05-21 07:32:10,117 - Object detected: person, confidence: 0.94
+2025-05-21 07:32:10,117 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:10,117 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:10,118 - Object detected: person, confidence: 0.75
+2025-05-21 07:32:10,203 - Object detected: person, confidence: 0.94
+2025-05-21 07:32:10,203 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:10,203 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:10,204 - Object detected: person, confidence: 0.80
+2025-05-21 07:32:10,204 - Motion detected at timestamp 2025-05-21 07:32:10
+2025-05-21 07:32:10,241 - Lưu ảnh chụp: data/output\snapshot_20250521_073210.jpg
+2025-05-21 07:32:10,336 - Object detected: person, confidence: 0.94
+2025-05-21 07:32:10,336 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:10,336 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:10,337 - Object detected: person, confidence: 0.82
+2025-05-21 07:32:10,342 - Lưu ảnh chụp: data/output\snapshot_20250521_073210.jpg
+2025-05-21 07:32:10,434 - Object detected: person, confidence: 0.94
+2025-05-21 07:32:10,435 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:10,435 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:10,435 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:10,441 - Lưu ảnh chụp: data/output\snapshot_20250521_073210.jpg
+2025-05-21 07:32:10,536 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:10,537 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:10,537 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:10,538 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:10,538 - Object detected: tie, confidence: 0.52
+2025-05-21 07:32:10,545 - Lưu ảnh chụp: data/output\snapshot_20250521_073210.jpg
+2025-05-21 07:32:10,650 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:10,651 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:10,651 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:10,652 - Object detected: person, confidence: 0.82
+2025-05-21 07:32:10,659 - Lưu ảnh chụp: data/output\snapshot_20250521_073210.jpg
+2025-05-21 07:32:10,774 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:10,775 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:10,775 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:10,776 - Object detected: person, confidence: 0.83
+2025-05-21 07:32:10,783 - Lưu ảnh chụp: data/output\snapshot_20250521_073210.jpg
+2025-05-21 07:32:10,899 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:10,900 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:10,900 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:10,901 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:10,908 - Lưu ảnh chụp: data/output\snapshot_20250521_073210.jpg
+2025-05-21 07:32:11,018 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:11,018 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:11,019 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:11,019 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:11,019 - Object detected: cell phone, confidence: 0.53
+2025-05-21 07:32:11,024 - Lưu ảnh chụp: data/output\snapshot_20250521_073211.jpg
+2025-05-21 07:32:11,126 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:11,127 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:11,127 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:11,127 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:11,127 - Object detected: cell phone, confidence: 0.63
+2025-05-21 07:32:11,135 - Lưu ảnh chụp: data/output\snapshot_20250521_073211.jpg
+2025-05-21 07:32:11,227 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:11,228 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:11,228 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:11,228 - Object detected: person, confidence: 0.83
+2025-05-21 07:32:11,228 - Motion detected at timestamp 2025-05-21 07:32:11
+2025-05-21 07:32:11,234 - Lưu ảnh chụp: data/output\snapshot_20250521_073211.jpg
+2025-05-21 07:32:11,358 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:11,358 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:11,359 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:11,359 - Object detected: person, confidence: 0.82
+2025-05-21 07:32:11,365 - Lưu ảnh chụp: data/output\snapshot_20250521_073211.jpg
+2025-05-21 07:32:11,486 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:11,486 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:11,487 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:11,488 - Object detected: person, confidence: 0.83
+2025-05-21 07:32:11,495 - Lưu ảnh chụp: data/output\snapshot_20250521_073211.jpg
+2025-05-21 07:32:11,599 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:11,600 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:11,600 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:11,601 - Object detected: person, confidence: 0.82
+2025-05-21 07:32:11,606 - Lưu ảnh chụp: data/output\snapshot_20250521_073211.jpg
+2025-05-21 07:32:11,702 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:11,702 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:11,702 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:11,703 - Object detected: person, confidence: 0.81
+2025-05-21 07:32:11,708 - Lưu ảnh chụp: data/output\snapshot_20250521_073211.jpg
+2025-05-21 07:32:11,815 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:11,816 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:11,816 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:11,817 - Object detected: person, confidence: 0.79
+2025-05-21 07:32:11,826 - Lưu ảnh chụp: data/output\snapshot_20250521_073211.jpg
+2025-05-21 07:32:11,948 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:11,948 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:11,949 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:11,949 - Object detected: person, confidence: 0.78
+2025-05-21 07:32:11,962 - Lưu ảnh chụp: data/output\snapshot_20250521_073211.jpg
+2025-05-21 07:32:12,085 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:12,086 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:12,086 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:12,087 - Object detected: person, confidence: 0.75
+2025-05-21 07:32:12,095 - Lưu ảnh chụp: data/output\snapshot_20250521_073212.jpg
+2025-05-21 07:32:12,198 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:12,199 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:12,199 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:12,200 - Object detected: person, confidence: 0.63
+2025-05-21 07:32:12,206 - Lưu ảnh chụp: data/output\snapshot_20250521_073212.jpg
+2025-05-21 07:32:12,311 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:12,311 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:12,311 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:12,311 - Object detected: person, confidence: 0.67
+2025-05-21 07:32:12,312 - Motion detected at timestamp 2025-05-21 07:32:12
+2025-05-21 07:32:12,317 - Lưu ảnh chụp: data/output\snapshot_20250521_073212.jpg
+2025-05-21 07:32:12,416 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:12,417 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:12,417 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:12,418 - Object detected: person, confidence: 0.71
+2025-05-21 07:32:12,423 - Lưu ảnh chụp: data/output\snapshot_20250521_073212.jpg
+2025-05-21 07:32:12,522 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:12,522 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:12,523 - Object detected: person, confidence: 0.72
+2025-05-21 07:32:12,523 - Object detected: person, confidence: 0.63
+2025-05-21 07:32:12,529 - Lưu ảnh chụp: data/output\snapshot_20250521_073212.jpg
+2025-05-21 07:32:12,622 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:12,623 - Object detected: person, confidence: 0.61
+2025-05-21 07:32:12,628 - Lưu ảnh chụp: data/output\snapshot_20250521_073212.jpg
+2025-05-21 07:32:12,759 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:12,759 - Object detected: person, confidence: 0.77
+2025-05-21 07:32:12,759 - Object detected: person, confidence: 0.64
+2025-05-21 07:32:12,759 - Object detected: person, confidence: 0.62
+2025-05-21 07:32:12,765 - Lưu ảnh chụp: data/output\snapshot_20250521_073212.jpg
+2025-05-21 07:32:12,870 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:12,870 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:12,870 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:12,871 - Object detected: person, confidence: 0.56
+2025-05-21 07:32:12,871 - Object detected: person, confidence: 0.53
+2025-05-21 07:32:12,877 - Lưu ảnh chụp: data/output\snapshot_20250521_073212.jpg
+2025-05-21 07:32:12,984 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:12,984 - Object detected: person, confidence: 0.72
+2025-05-21 07:32:12,984 - Object detected: person, confidence: 0.59
+2025-05-21 07:32:12,991 - Lưu ảnh chụp: data/output\snapshot_20250521_073212.jpg
+2025-05-21 07:32:13,116 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:13,117 - Object detected: person, confidence: 0.58
+2025-05-21 07:32:13,125 - Lưu ảnh chụp: data/output\snapshot_20250521_073213.jpg
+2025-05-21 07:32:13,245 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:13,253 - Lưu ảnh chụp: data/output\snapshot_20250521_073213.jpg
+2025-05-21 07:32:13,363 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:13,363 - Object detected: person, confidence: 0.54
+2025-05-21 07:32:13,364 - Motion detected at timestamp 2025-05-21 07:32:13
+2025-05-21 07:32:13,369 - Lưu ảnh chụp: data/output\snapshot_20250521_073213.jpg
+2025-05-21 07:32:13,472 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:13,478 - Lưu ảnh chụp: data/output\snapshot_20250521_073213.jpg
+2025-05-21 07:32:13,568 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:13,573 - Lưu ảnh chụp: data/output\snapshot_20250521_073213.jpg
+2025-05-21 07:32:13,669 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:13,674 - Lưu ảnh chụp: data/output\snapshot_20250521_073213.jpg
+2025-05-21 07:32:13,764 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:13,764 - Object detected: person, confidence: 0.56
+2025-05-21 07:32:13,765 - Object detected: person, confidence: 0.56
+2025-05-21 07:32:13,771 - Lưu ảnh chụp: data/output\snapshot_20250521_073213.jpg
+2025-05-21 07:32:13,870 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:13,875 - Lưu ảnh chụp: data/output\snapshot_20250521_073213.jpg
+2025-05-21 07:32:13,975 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:13,981 - Lưu ảnh chụp: data/output\snapshot_20250521_073213.jpg
+2025-05-21 07:32:14,074 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:14,103 - Lưu ảnh chụp: data/output\snapshot_20250521_073214.jpg
+2025-05-21 07:32:14,207 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:14,208 - Object detected: person, confidence: 0.60
+2025-05-21 07:32:14,208 - Object detected: person, confidence: 0.51
+2025-05-21 07:32:14,216 - Lưu ảnh chụp: data/output\snapshot_20250521_073214.jpg
+2025-05-21 07:32:14,336 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:14,337 - Object detected: person, confidence: 0.60
+2025-05-21 07:32:14,337 - Object detected: person, confidence: 0.52
+2025-05-21 07:32:14,344 - Lưu ảnh chụp: data/output\snapshot_20250521_073214.jpg
+2025-05-21 07:32:14,480 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:14,480 - Object detected: person, confidence: 0.56
+2025-05-21 07:32:14,481 - Object detected: person, confidence: 0.54
+2025-05-21 07:32:14,481 - Motion detected at timestamp 2025-05-21 07:32:14
+2025-05-21 07:32:14,487 - Lưu ảnh chụp: data/output\snapshot_20250521_073214.jpg
+2025-05-21 07:32:14,608 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:14,608 - Object detected: person, confidence: 0.66
+2025-05-21 07:32:14,609 - Object detected: person, confidence: 0.60
+2025-05-21 07:32:14,615 - Lưu ảnh chụp: data/output\snapshot_20250521_073214.jpg
+2025-05-21 07:32:14,738 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:14,739 - Object detected: person, confidence: 0.68
+2025-05-21 07:32:14,744 - Lưu ảnh chụp: data/output\snapshot_20250521_073214.jpg
+2025-05-21 07:32:14,905 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:14,905 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:14,906 - Object detected: person, confidence: 0.75
+2025-05-21 07:32:14,911 - Lưu ảnh chụp: data/output\snapshot_20250521_073214.jpg
+2025-05-21 07:32:15,040 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:15,040 - Object detected: person, confidence: 0.83
+2025-05-21 07:32:15,040 - Object detected: person, confidence: 0.79
+2025-05-21 07:32:15,068 - Lưu ảnh chụp: data/output\snapshot_20250521_073215.jpg
+2025-05-21 07:32:15,157 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:15,158 - Object detected: person, confidence: 0.83
+2025-05-21 07:32:15,158 - Object detected: person, confidence: 0.66
+2025-05-21 07:32:15,158 - Object detected: person, confidence: 0.63
+2025-05-21 07:32:15,158 - Object detected: cell phone, confidence: 0.58
+2025-05-21 07:32:15,164 - Lưu ảnh chụp: data/output\snapshot_20250521_073215.jpg
+2025-05-21 07:32:15,269 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:15,269 - Object detected: person, confidence: 0.83
+2025-05-21 07:32:15,269 - Object detected: person, confidence: 0.76
+2025-05-21 07:32:15,276 - Lưu ảnh chụp: data/output\snapshot_20250521_073215.jpg
+2025-05-21 07:32:15,383 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:15,383 - Object detected: person, confidence: 0.80
+2025-05-21 07:32:15,383 - Object detected: person, confidence: 0.63
+2025-05-21 07:32:15,391 - Lưu ảnh chụp: data/output\snapshot_20250521_073215.jpg
+2025-05-21 07:32:15,516 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:15,517 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:15,518 - Motion detected at timestamp 2025-05-21 07:32:15
+2025-05-21 07:32:15,527 - Lưu ảnh chụp: data/output\snapshot_20250521_073215.jpg
+2025-05-21 07:32:15,649 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:15,650 - Object detected: person, confidence: 0.64
+2025-05-21 07:32:15,650 - Object detected: person, confidence: 0.61
+2025-05-21 07:32:15,657 - Lưu ảnh chụp: data/output\snapshot_20250521_073215.jpg
+2025-05-21 07:32:15,767 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:15,767 - Object detected: person, confidence: 0.76
+2025-05-21 07:32:15,773 - Lưu ảnh chụp: data/output\snapshot_20250521_073215.jpg
+2025-05-21 07:32:15,886 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:15,887 - Object detected: person, confidence: 0.79
+2025-05-21 07:32:15,887 - Object detected: person, confidence: 0.62
+2025-05-21 07:32:15,887 - Object detected: person, confidence: 0.57
+2025-05-21 07:32:15,892 - Lưu ảnh chụp: data/output\snapshot_20250521_073215.jpg
+2025-05-21 07:32:15,986 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:15,986 - Object detected: person, confidence: 0.62
+2025-05-21 07:32:15,986 - Object detected: person, confidence: 0.56
+2025-05-21 07:32:15,992 - Lưu ảnh chụp: data/output\snapshot_20250521_073215.jpg
+2025-05-21 07:32:16,079 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:16,080 - Object detected: person, confidence: 0.65
+2025-05-21 07:32:16,080 - Object detected: person, confidence: 0.65
+2025-05-21 07:32:16,107 - Lưu ảnh chụp: data/output\snapshot_20250521_073216.jpg
+2025-05-21 07:32:16,217 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:16,218 - Object detected: person, confidence: 0.66
+2025-05-21 07:32:16,218 - Object detected: person, confidence: 0.62
+2025-05-21 07:32:16,224 - Lưu ảnh chụp: data/output\snapshot_20250521_073216.jpg
+2025-05-21 07:32:16,333 - Object detected: person, confidence: 0.82
+2025-05-21 07:32:16,333 - Object detected: person, confidence: 0.72
+2025-05-21 07:32:16,334 - Object detected: person, confidence: 0.62
+2025-05-21 07:32:16,334 - Object detected: person, confidence: 0.53
+2025-05-21 07:32:16,339 - Lưu ảnh chụp: data/output\snapshot_20250521_073216.jpg
+2025-05-21 07:32:16,450 - Object detected: person, confidence: 0.80
+2025-05-21 07:32:16,450 - Object detected: person, confidence: 0.65
+2025-05-21 07:32:16,451 - Object detected: person, confidence: 0.62
+2025-05-21 07:32:16,457 - Lưu ảnh chụp: data/output\snapshot_20250521_073216.jpg
+2025-05-21 07:32:16,577 - Object detected: person, confidence: 0.79
+2025-05-21 07:32:16,577 - Object detected: person, confidence: 0.57
+2025-05-21 07:32:16,578 - Object detected: person, confidence: 0.51
+2025-05-21 07:32:16,579 - Motion detected at timestamp 2025-05-21 07:32:16
+2025-05-21 07:32:16,585 - Lưu ảnh chụp: data/output\snapshot_20250521_073216.jpg
+2025-05-21 07:32:16,710 - Object detected: person, confidence: 0.79
+2025-05-21 07:32:16,711 - Object detected: person, confidence: 0.76
+2025-05-21 07:32:16,711 - Object detected: person, confidence: 0.53
+2025-05-21 07:32:16,719 - Lưu ảnh chụp: data/output\snapshot_20250521_073216.jpg
+2025-05-21 07:32:16,833 - Object detected: person, confidence: 0.81
+2025-05-21 07:32:16,834 - Object detected: person, confidence: 0.66
+2025-05-21 07:32:16,841 - Lưu ảnh chụp: data/output\snapshot_20250521_073216.jpg
+2025-05-21 07:32:16,942 - Object detected: person, confidence: 0.76
+2025-05-21 07:32:16,943 - Object detected: person, confidence: 0.60
+2025-05-21 07:32:16,943 - Object detected: cell phone, confidence: 0.59
+2025-05-21 07:32:16,943 - Object detected: person, confidence: 0.53
+2025-05-21 07:32:16,948 - Lưu ảnh chụp: data/output\snapshot_20250521_073216.jpg
+2025-05-21 07:32:17,058 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:17,058 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:17,064 - Lưu ảnh chụp: data/output\snapshot_20250521_073217.jpg
+2025-05-21 07:32:17,175 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:17,176 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:17,176 - Object detected: person, confidence: 0.64
+2025-05-21 07:32:17,176 - Object detected: person, confidence: 0.56
+2025-05-21 07:32:17,182 - Lưu ảnh chụp: data/output\snapshot_2f250521_073217.jpg
+2025-05-21 07:32:17,301 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:17,301 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:17,302 - Object detected: person, confidence: 0.77
+2025-05-21 07:32:17,309 - Lưu ảnh chụp: data/output\snapshot_20250521_073217.jpg
+2025-05-21 07:32:17,413 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:17,413 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:17,413 - Object detected: person, confidence: 0.71
+2025-05-21 07:32:17,418 - Lưu ảnh chụp: data/output\snapshot_20250521_073217.jpg
+2025-05-21 07:32:17,529 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:17,530 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:17,530 - Object detected: person, confidence: 0.76
+2025-05-21 07:32:17,530 - Object detected: cell phone, confidence: 0.54
+2025-05-21 07:32:17,536 - Lưu ảnh chụp: data/output\snapshot_20250521_073217.jpg
+2025-05-21 07:32:17,639 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:17,639 - Object detected: person, confidence: 0.81
+2025-05-21 07:32:17,639 - Object detected: person, confidence: 0.54
+2025-05-21 07:32:17,640 - Motion detected at timestamp 2025-05-21 07:32:17
+2025-05-21 07:32:17,647 - Lưu ảnh chụp: data/output\snapshot_20250521_073217.jpg
+2025-05-21 07:32:17,753 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:17,753 - Object detected: person, confidence: 0.75
+2025-05-21 07:32:17,754 - Object detected: person, confidence: 0.50
+2025-05-21 07:32:17,761 - Lưu ảnh chụp: data/output\snapshot_20250521_073217.jpg
+2025-05-21 07:32:17,876 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:17,877 - Object detected: person, confidence: 0.61
+2025-05-21 07:32:17,885 - Lưu ảnh chụp: data/output\snapshot_20250521_073217.jpg
+2025-05-21 07:32:18,003 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:18,003 - Object detected: person, confidence: 0.83
+2025-05-21 07:32:18,004 - Object detected: person, confidence: 0.60
+2025-05-21 07:32:18,004 - Object detected: person, confidence: 0.58
+2025-05-21 07:32:18,012 - Lưu ảnh chụp: data/output\snapshot_20250521_073218.jpg
+2025-05-21 07:32:18,117 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:18,118 - Object detected: person, confidence: 0.79
+2025-05-21 07:32:18,118 - Object detected: person, confidence: 0.76
+2025-05-21 07:32:18,118 - Object detected: person, confidence: 0.50
+2025-05-21 07:32:18,137 - Lưu ảnh chụp: data/output\snapshot_20250521_073218.jpg
+2025-05-21 07:32:18,273 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:18,273 - Object detected: person, confidence: 0.67
+2025-05-21 07:32:18,274 - Object detected: person, confidence: 0.55
+2025-05-21 07:32:18,274 - Object detected: person, confidence: 0.52
+2025-05-21 07:32:18,280 - Lưu ảnh chụp: data/output\snapshot_20250521_073218.jpg
+2025-05-21 07:32:18,404 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:18,405 - Object detected: person, confidence: 0.63
+2025-05-21 07:32:18,411 - Lưu ảnh chụp: data/output\snapshot_20250521_073218.jpg
+2025-05-21 07:32:18,550 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:18,550 - Object detected: person, confidence: 0.67
+2025-05-21 07:32:18,550 - Object detected: person, confidence: 0.62
+2025-05-21 07:32:18,551 - Object detected: person, confidence: 0.55
+2025-05-21 07:32:18,556 - Lưu ảnh chụp: data/output\snapshot_20250521_073218.jpg
+2025-05-21 07:32:18,672 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:18,673 - Object detected: person, confidence: 0.61
+2025-05-21 07:32:18,673 - Object detected: person, confidence: 0.59
+2025-05-21 07:32:18,674 - Motion detected at timestamp 2025-05-21 07:32:18
+2025-05-21 07:32:18,679 - Lưu ảnh chụp: data/output\snapshot_20250521_073218.jpg
+2025-05-21 07:32:18,776 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:18,777 - Object detected: person, confidence: 0.82
+2025-05-21 07:32:18,777 - Object detected: person, confidence: 0.63
+2025-05-21 07:32:18,785 - Lưu ảnh chụp: data/output\snapshot_20250521_073218.jpg
+2025-05-21 07:32:18,893 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:18,894 - Object detected: person, confidence: 0.63
+2025-05-21 07:32:18,894 - Object detected: person, confidence: 0.59
+2025-05-21 07:32:18,902 - Lưu ảnh chụp: data/output\snapshot_20250521_073218.jpg
+2025-05-21 07:32:19,017 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:19,048 - Lưu ảnh chụp: data/output\snapshot_20250521_073219.jpg
+2025-05-21 07:32:19,175 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:19,183 - Lưu ảnh chụp: data/output\snapshot_20250521_073219.jpg
+2025-05-21 07:32:19,286 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:19,292 - Lưu ảnh chụp: data/output\snapshot_20250521_073219.jpg
+2025-05-21 07:32:19,394 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:19,394 - Object detected: person, confidence: 0.68
+2025-05-21 07:32:19,395 - Object detected: person, confidence: 0.60
+2025-05-21 07:32:19,400 - Lưu ảnh chụp: data/output\snapshot_20250521_073219.jpg
+2025-05-21 07:32:19,519 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:19,519 - Object detected: person, confidence: 0.62
+2025-05-21 07:32:19,520 - Object detected: person, confidence: 0.60
+2025-05-21 07:32:19,528 - Lưu ảnh chụp: data/output\snapshot_20250521_073219.jpg
+2025-05-21 07:32:19,630 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:19,630 - Object detected: person, confidence: 0.61
+2025-05-21 07:32:19,635 - Lưu ảnh chụp: data/output\snapshot_20250521_073219.jpg
+2025-05-21 07:32:19,775 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:19,775 - Object detected: person, confidence: 0.80
+2025-05-21 07:32:19,775 - Object detected: person, confidence: 0.50
+2025-05-21 07:32:19,776 - Motion detected at timestamp 2025-05-21 07:32:19
+2025-05-21 07:32:19,781 - Lưu ảnh chụp: data/output\snapshot_20250521_073219.jpg
+2025-05-21 07:32:19,872 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:19,872 - Object detected: person, confidence: 0.55
+2025-05-21 07:32:19,879 - Lưu ảnh chụp: data/output\snapshot_20250521_073219.jpg
+2025-05-21 07:32:19,978 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:19,979 - Object detected: person, confidence: 0.57
+2025-05-21 07:32:19,986 - Lưu ảnh chụp: data/output\snapshot_20250521_073219.jpg
+2025-05-21 07:32:20,101 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:20,101 - Object detected: person, confidence: 0.67
+2025-05-21 07:32:20,109 - Lưu ảnh chụp: data/output\snapshot_20250521_073220.jpg
+2025-05-21 07:32:20,247 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:20,247 - Object detected: person, confidence: 0.64
+2025-05-21 07:32:20,255 - Lưu ảnh chụp: data/output\snapshot_20250521_073220.jpg
+2025-05-21 07:32:20,398 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:20,404 - Lưu ảnh chụp: data/output\snapshot_20250521_073220.jpg
+2025-05-21 07:32:20,515 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:20,515 - Object detected: person, confidence: 0.56
+2025-05-21 07:32:20,516 - Object detected: person, confidence: 0.52
+2025-05-21 07:32:20,523 - Lưu ảnh chụp: data/output\snapshot_20250521_073220.jpg
+2025-05-21 07:32:20,632 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:20,633 - Object detected: person, confidence: 0.51
+2025-05-21 07:32:20,638 - Lưu ảnh chụp: data/output\snapshot_20250521_073220.jpg
+2025-05-21 07:32:20,753 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:20,753 - Object detected: person, confidence: 0.52
+2025-05-21 07:32:20,758 - Lưu ảnh chụp: data/output\snapshot_20250521_073220.jpg
+2025-05-21 07:32:20,876 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:20,876 - Object detected: person, confidence: 0.62
+2025-05-21 07:32:20,877 - Object detected: person, confidence: 0.56
+2025-05-21 07:32:20,877 - Motion detected at timestamp 2025-05-21 07:32:20
+2025-05-21 07:32:20,882 - Lưu ảnh chụp: data/output\snapshot_20250521_073220.jpg
+2025-05-21 07:32:21,019 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:21,019 - Object detected: person, confidence: 0.74
+2025-05-21 07:32:21,047 - Lưu ảnh chụp: data/output\snapshot_20250521_073221.jpg
+2025-05-21 07:32:21,196 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:21,196 - Object detected: person, confidence: 0.81
+2025-05-21 07:32:21,197 - Object detected: person, confidence: 0.61
+2025-05-21 07:32:21,197 - Object detected: person, confidence: 0.52
+2025-05-21 07:32:21,205 - Lưu ảnh chụp: data/output\snapshot_20250521_073221.jpg
+2025-05-21 07:32:21,338 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:21,339 - Object detected: person, confidence: 0.68
+2025-05-21 07:32:21,340 - Object detected: person, confidence: 0.68
+2025-05-21 07:32:21,348 - Lưu ảnh chụp: data/output\snapshot_20250521_073221.jpg
+2025-05-21 07:32:21,476 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:21,477 - Object detected: person, confidence: 0.72
+2025-05-21 07:32:21,484 - Lưu ảnh chụp: data/output\snapshot_20250521_073221.jpg
+2025-05-21 07:32:21,609 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:21,610 - Object detected: person, confidence: 0.65
+2025-05-21 07:32:21,616 - Lưu ảnh chụp: data/output\snapshot_20250521_073221.jpg
+2025-05-21 07:32:21,738 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:21,739 - Object detected: person, confidence: 0.62
+2025-05-21 07:32:21,748 - Lưu ảnh chụp: data/output\snapshot_20250521_073221.jpg
+2025-05-21 07:32:21,879 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:21,880 - Object detected: person, confidence: 0.77
+2025-05-21 07:32:21,880 - Object detected: person, confidence: 0.52
+2025-05-21 07:32:21,880 - Motion detected at timestamp 2025-05-21 07:32:21
+2025-05-21 07:32:21,886 - Lưu ảnh chụp: data/output\snapshot_20250521_073221.jpg
+2025-05-21 07:32:22,031 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:22,032 - Object detected: person, confidence: 0.79
+2025-05-21 07:32:22,033 - Object detected: person, confidence: 0.72
+2025-05-21 07:32:22,040 - Lưu ảnh chụp: data/output\snapshot_20250521_073222.jpg
+2025-05-21 07:32:22,171 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:22,172 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:22,172 - Object detected: person, confidence: 0.71
+2025-05-21 07:32:22,179 - Lưu ảnh chụp: data/output\snapshot_20250521_073222.jpg
+2025-05-21 07:32:22,274 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:22,274 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:22,275 - Object detected: person, confidence: 0.83
+2025-05-21 07:32:22,281 - Lưu ảnh chụp: data/output\snapshot_20250521_073222.jpg
+2025-05-21 07:32:22,388 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:22,389 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:22,389 - Object detected: person, confidence: 0.75
+2025-05-21 07:32:22,398 - Lưu ảnh chụp: data/output\snapshot_20250521_073222.jpg
+2025-05-21 07:32:22,534 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:22,535 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:22,535 - Object detected: person, confidence: 0.66
+2025-05-21 07:32:22,546 - Lưu ảnh chụp: data/output\snapshot_20250521_073222.jpg
+2025-05-21 07:32:22,667 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:22,667 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:22,667 - Object detected: person, confidence: 0.75
+2025-05-21 07:32:22,676 - Lưu ảnh chụp: data/output\snapshot_20250521_073222.jpg
+2025-05-21 07:32:22,786 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:22,786 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:22,786 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:22,787 - Object detected: person, confidence: 0.73
+2025-05-21 07:32:22,792 - Lưu ảnh chụp: data/output\snapshot_20250521_073222.jpg
+2025-05-21 07:32:22,895 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:22,895 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:22,895 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:22,896 - Object detected: person, confidence: 0.72
+2025-05-21 07:32:22,896 - Motion detected at timestamp 2025-05-21 07:32:22
+2025-05-21 07:32:22,901 - Lưu ảnh chụp: data/output\snapshot_20250521_073222.jpg
+2025-05-21 07:32:23,003 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:23,004 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:23,004 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:23,005 - Object detected: person, confidence: 0.80
+2025-05-21 07:32:23,033 - Lưu ảnh chụp: data/output\snapshot_20250521_073223.jpg
+2025-05-21 07:32:23,137 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:23,137 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:23,137 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:23,138 - Object detected: person, confidence: 0.77
+2025-05-21 07:32:23,146 - Lưu ảnh chụp: data/output\snapshot_20250521_073223.jpg
+2025-05-21 07:32:23,264 - Object detected: person, confidence: 0.93
+2025-05-21 07:32:23,264 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:23,265 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:23,265 - Object detected: person, confidence: 0.78
+2025-05-21 07:32:23,271 - Lưu ảnh chụp: data/output\snapshot_20250521_073223.jpg
+2025-05-21 07:32:23,378 - Object detected: person, confidence: 0.92
+2025-05-21 07:32:23,378 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:23,379 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:23,379 - Object detected: person, confidence: 0.82
+2025-05-21 07:32:23,384 - Lưu ảnh chụp: data/output\snapshot_20250521_073223.jpg
+2025-05-21 07:32:23,485 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:23,486 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:23,486 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:23,487 - Object detected: person, confidence: 0.82
+2025-05-21 07:32:23,487 - Object detected: cell phone, confidence: 0.61
+2025-05-21 07:32:23,494 - Lưu ảnh chụp: data/output\snapshot_20250521_073223.jpg
+2025-05-21 07:32:23,634 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:23,635 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:23,635 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:23,636 - Object detected: person, confidence: 0.81
+2025-05-21 07:32:23,644 - Lưu ảnh chụp: data/output\snapshot_20250521_073223.jpg
+2025-05-21 07:32:23,756 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:23,756 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:23,756 - Object detected: person, confidence: 0.76
+2025-05-21 07:32:23,757 - Object detected: person, confidence: 0.70
+2025-05-21 07:32:23,764 - Lưu ảnh chụp: data/output\snapshot_20250521_073223.jpg
+2025-05-21 07:32:23,891 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:23,892 - Object detected: person, confidence: 0.83
+2025-05-21 07:32:23,892 - Object detected: person, confidence: 0.79
+2025-05-21 07:32:23,899 - Lưu ảnh chụp: data/output\snapshot_20250521_073223.jpg
+2025-05-21 07:32:24,032 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:24,032 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:24,032 - Object detected: person, confidence: 0.75
+2025-05-21 07:32:24,033 - Object detected: cell phone, confidence: 0.54
+2025-05-21 07:32:24,033 - Motion detected at timestamp 2025-05-21 07:32:24
+2025-05-21 07:32:24,039 - Lưu ảnh chụp: data/output\snapshot_20250521_073224.jpg
+2025-05-21 07:32:24,155 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:24,155 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:24,156 - Object detected: person, confidence: 0.83
+2025-05-21 07:32:24,161 - Lưu ảnh chụp: data/output\snapshot_20250521_073224.jpg
+2025-05-21 07:32:24,277 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:24,277 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:24,277 - Object detected: person, confidence: 0.82
+2025-05-21 07:32:24,278 - Object detected: person, confidence: 0.54
+2025-05-21 07:32:24,283 - Lưu ảnh chụp: data/output\snapshot_20250521_073224.jpg
+2025-05-21 07:32:24,392 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:24,393 - Object detected: person, confidence: 0.78
+2025-05-21 07:32:24,393 - Object detected: person, confidence: 0.73
+2025-05-21 07:32:24,393 - Object detected: person, confidence: 0.68
+2025-05-21 07:32:24,400 - Lưu ảnh chụp: data/output\snapshot_20250521_073224.jpg
+2025-05-21 07:32:24,518 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:24,518 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:24,519 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:24,519 - Object detected: person, confidence: 0.83
+2025-05-21 07:32:24,526 - Lưu ảnh chụp: data/output\snapshot_20250521_073224.jpg
+2025-05-21 07:32:24,655 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:24,656 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:24,656 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:24,656 - Object detected: person, confidence: 0.80
+2025-05-21 07:32:24,664 - Lưu ảnh chụp: data/output\snapshot_20250521_073224.jpg
+2025-05-21 07:32:24,774 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:24,775 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:24,775 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:24,776 - Object detected: person, confidence: 0.78
+2025-05-21 07:32:24,783 - Lưu ảnh chụp: data/output\snapshot_20250521_073224.jpg
+2025-05-21 07:32:24,908 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:24,909 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:24,909 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:24,910 - Object detected: person, confidence: 0.75
+2025-05-21 07:32:24,917 - Lưu ảnh chụp: data/output\snapshot_20250521_073224.jpg
+2025-05-21 07:32:25,031 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:25,032 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:25,033 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:25,033 - Object detected: person, confidence: 0.76
+2025-05-21 07:32:25,034 - Motion detected at timestamp 2025-05-21 07:32:25
+2025-05-21 07:32:25,063 - Lưu ảnh chụp: data/output\snapshot_20250521_073225.jpg
+2025-05-21 07:32:25,169 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:25,169 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:25,170 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:25,170 - Object detected: person, confidence: 0.81
+2025-05-21 07:32:25,177 - Lưu ảnh chụp: data/output\snapshot_20250521_073225.jpg
+2025-05-21 07:32:25,302 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:25,302 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:25,303 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:25,303 - Object detected: person, confidence: 0.83
+2025-05-21 07:32:25,311 - Lưu ảnh chụp: data/output\snapshot_20250521_073225.jpg
+2025-05-21 07:32:25,407 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:25,408 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:25,408 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:25,408 - Object detected: person, confidence: 0.81
+2025-05-21 07:32:25,413 - Lưu ảnh chụp: data/output\snapshot_20250521_073225.jpg
+2025-05-21 07:32:25,528 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:25,528 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:25,528 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:25,529 - Object detected: person, confidence: 0.83
+2025-05-21 07:32:25,534 - Lưu ảnh chụp: data/output\snapshot_20250521_073225.jpg
+2025-05-21 07:32:25,658 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:25,658 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:25,658 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:25,659 - Object detected: person, confidence: 0.82
+2025-05-21 07:32:25,665 - Lưu ảnh chụp: data/output\snapshot_20250521_073225.jpg
+2025-05-21 07:32:25,777 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:25,777 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:25,777 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:25,778 - Object detected: person, confidence: 0.80
+2025-05-21 07:32:25,784 - Lưu ảnh chụp: data/output\snapshot_20250521_073225.jpg
+2025-05-21 07:32:25,891 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:25,891 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:25,891 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:25,892 - Object detected: person, confidence: 0.78
+2025-05-21 07:32:25,899 - Lưu ảnh chụp: data/output\snapshot_20250521_073225.jpg
+2025-05-21 07:32:26,011 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:26,012 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:26,012 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:26,013 - Object detected: person, confidence: 0.77
+2025-05-21 07:32:26,129 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:26,130 - Object detected: person, confidence: 0.89
+2025-05-21 07:32:26,131 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:26,131 - Object detected: person, confidence: 0.74
+2025-05-21 07:32:26,263 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:26,264 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:26,264 - Object detected: person, confidence: 0.83
+2025-05-21 07:32:26,265 - Object detected: person, confidence: 0.71
+2025-05-21 07:32:26,363 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:26,363 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:26,364 - Object detected: person, confidence: 0.84
+2025-05-21 07:32:26,364 - Object detected: person, confidence: 0.75
+2025-05-21 07:32:26,460 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:26,461 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:26,461 - Object detected: person, confidence: 0.83
+2025-05-21 07:32:26,462 - Object detected: person, confidence: 0.70
+2025-05-21 07:32:26,563 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:26,564 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:26,564 - Object detected: person, confidence: 0.85
+2025-05-21 07:32:26,564 - Object detected: person, confidence: 0.75
+2025-05-21 07:32:26,671 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:26,672 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:26,672 - Object detected: person, confidence: 0.83
+2025-05-21 07:32:26,672 - Object detected: person, confidence: 0.67
+2025-05-21 07:32:26,778 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:26,778 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:26,779 - Object detected: person, confidence: 0.86
+2025-05-21 07:32:26,779 - Object detected: person, confidence: 0.75
+2025-05-21 07:32:26,889 - Object detected: person, confidence: 0.91
+2025-05-21 07:32:26,889 - Object detected: person, confidence: 0.88
+2025-05-21 07:32:26,890 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:26,890 - Object detected: person, confidence: 0.75
+2025-05-21 07:32:27,015 - Object detected: person, confidence: 0.90
+2025-05-21 07:32:27,015 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:27,016 - Object detected: person, confidence: 0.87
+2025-05-21 07:32:27,016 - Object detected: person, confidence: 0.77
+2025-05-21 07:32:27,026 - Đã ghi 160 khung hình vào video
+2025-05-21 07:32:27,053 - Đã dừng ghi video bởi người dùng
+2025-05-21 07:32:27,387 - Average FPS: 7.51
+2025-05-21 07:32:27,387 - Total frames processed: 160
+2025-05-21 07:32:27,388 - Motion detection - TP: 129, FP+FN: 31, Accuracy: 0.81
+2025-05-21 07:32:27,388 - Object detection - Correct: 355, Incorrect: 177, F1-score: 0.67
+2025-05-21 07:32:27,388 - Đã dừng xử lý bởi người dùng
+2025-05-21 07:32:27,389 - Dừng xử lý khung hình: running=False, cap=False, cap.isOpened=False
